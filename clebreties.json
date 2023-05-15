@@ -1,0 +1,14 @@
+{
+"name": "Adam Smith",
+"born": "June 5, 1723",
+"died": "July 17, 1790",
+"active" : false,
+"nationality": "Scottish",
+"occupation": "Philosopher, Economist",
+"known_for": "Author of 'The Wealth of Nations'",
+"education": "University of Glasgow, Balliol College, Oxford",
+"influenced_by": ["David Hume", "Francis Hutcheson", "Richard Cantillon"],
+"notable_works": ["The Theory of Moral Sentiments", "An Inquiry into the Nature and Causes of the Wealth of Nations"],
+"awards": ["Fellow of the Royal Society of Edinburgh"],
+"quote": "It is not from the benevolence of the butcher, the brewer, or the baker that we expect our dinner, but from their regard to their own interest."
+}
