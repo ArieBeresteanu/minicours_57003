@@ -12,3 +12,18 @@
 "awards": ["Fellow of the Royal Society of Edinburgh"],
 "quote": "It is not from the benevolence of the butcher, the brewer, or the baker that we expect our dinner, but from their regard to their own interest."
 }
+,
+
+{
+  "name": "Michael Jordan",
+  "born": "February 17, 1963",
+  "active": False,
+  "nationality": "American",
+  "occupation": "Basketball Player, Entrepreneur",
+  "known_for": "Legendary basketball career with the Chicago Bulls",
+  "education": "University of North Carolina at Chapel Hill",
+  "influenced_by": ["Julius Erving", "Magic Johnson", "Larry Bird"],
+  "notable_works": ["Six-time NBA champion", "Five-time NBA MVP"],
+  "awards": ["NBA Hall of Fame", "Olympic gold medals"],
+  "quote": "I can accept failure, everyone fails at something. But I can't accept not trying."
+}
