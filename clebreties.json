@@ -1,4 +1,4 @@
-{
+[{
 "name": "Adam Smith",
 "born": "June 5, 1723",
 "died": "July 17, 1790",
@@ -11,4 +11,17 @@
 "notable_works": ["The Theory of Moral Sentiments", "An Inquiry into the Nature and Causes of the Wealth of Nations"],
 "awards": ["Fellow of the Royal Society of Edinburgh"],
 "quote": "It is not from the benevolence of the butcher, the brewer, or the baker that we expect our dinner, but from their regard to their own interest."
+},
+arnold = {
+    "name": "arnold Schwarzenegger",
+    "birth_place": "Thal, Austria",
+    "occupation": "Actor, Politician, Bodybuilder, Businessman",
+    "Married": False,
+    "Date_of_birth": "July 30th, 1947",
+    "Awards": ["Dallas OUT TAKES","Israeli Film Academy","Israeli Television Academy"],
+    "hobbies": "Driving Tanks",
+    "children": "5",
+    "Olympia wins": "7",
+    "Awards": ["Mr.Olympia","Mr.Universe","Golden Globe","Sport Hall of Fame"]
 }
+ ]
